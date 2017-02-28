@@ -1,6 +1,6 @@
 # Lumen with JWT Authentication
 Basically this is a starter kit for you to integrate Lumen with [JWT Authentication](https://jwt.io/).
-If you want to Lumen + Dingo + JWT for your current application, please check [here](https://github.com/krisanalfa/lumen-dingo-adapter).
+If you want to Lumen + Dingo + JWT for your current application.
 
 
 ## Quick Start
